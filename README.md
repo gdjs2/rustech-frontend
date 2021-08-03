@@ -7,7 +7,7 @@ This is the process report for rustech front end mini program. I will post the r
 
 ### Important!!!
 - [ ] The course selection information is not refreshed when re-login another account
-- [ ] The function of logout button on the second-layer pages
+- [x] The function of logout button on the second-layer pages
 - [ ] Some course information cannot be shown correctly (e.g., BIO102B)
 - [ ] The overall GPA and using different color to distinguish different kind of class
 ### Normal!!
