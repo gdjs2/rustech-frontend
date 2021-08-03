@@ -11,3 +11,4 @@ This is the process report for rustech front end mini program. I will post the r
 - [ ] The re-fresh of the available classes page when be backing from course information page
 - [ ] The functon of pull down refresh
 - [ ] Some course information cannot be shown correctly (e.g., BIO102B)
+- [ ] The course selection information is not refreshed when re-login another account
